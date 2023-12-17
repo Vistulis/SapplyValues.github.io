@@ -1,18 +1,4 @@
 [
-  { "label": "Center", "range": { "x": [-1, 1], "y": [-1, 1] } },
-  { "label": "AuthLeft", "range": { "x": [-10, -2], "y": [-10, 10] } },
-  { "label": "LibLeft", "range": { "x": [-10, -2], "y": [-1, 1] } },
-  { "label": "LibRight", "range": { "x": [2, 10], "y": [-1, 1] } },
-  { "label": "AuthRight", "range": { "x": [2, 10], "y": [-10, 10] } },
-  { "label": "AuthCenter", "range": { "x": [-1, 1], "y": [0, 1] } },
-  { "label": "LibCenter", "range": { "x": [-1, 1], "y": [-1, 0] } },
-  { "label": "Center-LibLeft", "range": { "x": [-1, -0.2], "y": [-0.5, 1] } },
-  { "label": "Center-LibRight", "range": { "x": [0.2, 1], "y": [-0.5, 1] } },
-  { "label": "Center-AuthLeft", "range": { "x": [-1, -0.2], "y": [-1, 0.5] } },
-  { "label": "Center-AuthRight", "range": { "x": [0.2, 1], "y": [-1, 0.5] } },
-  { "label": "OffCompass-LibLeft", "range": { "x": [-15, -11], "y": [-0.5, 0.5] } },
-  { "label": "OffCompass-LibRight", "range": { "x": [11, 15], "y": [-0.5, 0.5] } },
-  { "label": "OffCompass-AuthLeft", "range": { "x": [-15, -11], "y": [-5, 5] } },
-  { "label": "OffCompass-AuthRight", "range": { "x": [11, 15], "y": [-5, 5] } },
-  { "label": "OffCompass-Center", "range": { "x": [-15, 15], "y": [-5, 5] } }
+  { "label": "Centrism", "range": { "x": [-1, 1], "y": [-1, 1] } },
+  { "label": "Stalinism", "range": { "x": [-10, -9], "y": [10, 9] } }
 ]
